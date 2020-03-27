@@ -1,9 +1,10 @@
 MOD2 W1: Journalism- Nautilus [Mockup]
 
-## *Wireframes:*
+# *Wireframes:*
 
+## 1. Component–(Landing)
 ![1. Component–(Landing)](https://github.com/daler-bobojanov/nautilus_mockup/blob/master/wireframe/1.%20Component%E2%80%93(Landing).png)
-## 
+## 2. Component– (Home Page)
 ![2. Component– (Home Page)](https://github.com/daler-bobojanov/nautilus_mockup/blob/master/wireframe/2.%20Component%E2%80%93%20(Home%20Page).png)
 #   
 ![3. Component–(Channels)](https://github.com/daler-bobojanov/nautilus_mockup/blob/master/wireframe/3.%20Component%E2%80%93(Channels).png)
