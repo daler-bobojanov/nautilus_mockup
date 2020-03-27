@@ -22,3 +22,6 @@ MOD2 W1: Journalism- Nautilus [Mockup]
 
 ## 7. Component–(Listen to Nautilus)
 ![7. Component–(Listen to Nautilus)](https://github.com/daler-bobojanov/nautilus_mockup/blob/master/wireframe/7.%20Component%E2%80%93(Listen%20to%20Nautilus).png)
+
+## 8. Component–(Nautilus Prime)
+![8. Component–(Nautilus Prime)](https://github.com/daler-bobojanov/nautilus_mockup/blob/master/wireframe/8.%20Component%E2%80%93(Nautilus%20Prime).png)
