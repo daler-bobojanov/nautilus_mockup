@@ -25,3 +25,6 @@ MOD2 W1: Journalism- Nautilus [Mockup]
 
 ## 8. Component–(Nautilus Prime)
 ![8. Component–(Nautilus Prime)](https://github.com/daler-bobojanov/nautilus_mockup/blob/master/wireframe/8.%20Component%E2%80%93(Nautilus%20Prime).png)
+
+## 9. Component–(Footer)
+![9. Component–(Footer)](https://github.com/daler-bobojanov/nautilus_mockup/blob/master/wireframe/9.%20Component%E2%80%93(Footer).png)
