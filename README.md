@@ -13,3 +13,6 @@ MOD2 W1: Journalism- Nautilus [Mockup]
 
 ## 4. Component–(Channels cont.)
 ![4. Component–(Channels cont.)](https://github.com/daler-bobojanov/nautilus_mockup/blob/master/wireframe/4.%20Component%E2%80%93(Channels%20cont.).png)
+
+## 5. Component–(Popular on Nautilus)
+![5. Component–(Popular on Nautilus)](https://github.com/daler-bobojanov/nautilus_mockup/blob/master/wireframe/5.%20Component%E2%80%93(Popular%20on%20Nautilus).png)
