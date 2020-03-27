@@ -19,3 +19,6 @@ MOD2 W1: Journalism- Nautilus [Mockup]
 
 ## 6. Components–(Facts So Romantic)
 ![6. Components–(Facts So Romantic)](https://github.com/daler-bobojanov/nautilus_mockup/blob/master/wireframe/6.%20Components%E2%80%93(Facts%20So%20Romantic).png)
+
+## 7. Component–(Listen to Nautilus)
+![7. Component–(Listen to Nautilus)](https://github.com/daler-bobojanov/nautilus_mockup/blob/master/wireframe/7.%20Component%E2%80%93(Listen%20to%20Nautilus).png)
